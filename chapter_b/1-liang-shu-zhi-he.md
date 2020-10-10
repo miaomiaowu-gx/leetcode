@@ -45,7 +45,21 @@ class Solution {
 
 算法：使用哈希表，可以将寻找 target - x 的时间复杂度降低到从 O(N) 降低到 O(1)。创建一个哈希表，对于每一个 x，首先查询哈希表中是否存在 target - x，存在则返回结果。不存在则将 x 插入到哈希表中，即可保证不会让 x 和自己匹配。
 
-
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int len =  nums.length;
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=0; i<len; i++){
+            if(map.containsKey(target-nums[i])){
+                return new int[]{map.get(target-nums[i]),i};
+            }
+            map.put(nums[i],i);
+        }
+        return new int[0];
+    }
+}
+```
 
 
 
