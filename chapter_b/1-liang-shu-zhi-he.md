@@ -15,6 +15,23 @@ Related Topics 数组 哈希表
 
 ### 方法一、暴力枚举
 
+【不推荐】
+
 思路：枚举数组中的每一个数 x，寻找数组中是否存在 target - x。元素不能被重复使用，只需要在 x 后面的元素中寻找 target - x。
 
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int len =  nums.length;
+        for(int i=0; i<len; i++){
+            for(int j=i+1; j<len; j++){
+                if(nums[i]+nums[j]==target)
+                    return new int[]{i,j};
+            }
+        }
+        return new int[0];
+    }
+}
+```
 
+### 方法二、哈希表
