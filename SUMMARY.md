@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 * [第一章 字符串-简单题](chapter1/README.md)
@@ -30,349 +30,349 @@
   * [788 旋转数字](chapter1/788-xuan-zhuan-shu-zi.md)
   * [804 唯一摩尔斯密码词](chapter1/804-wei-yi-mo-er-si-mi-ma-ci.md)
   * [819 最常见的单词](chapter1/819-zui-chang-jian-de-dan-ci.md)
-  * [824 山羊拉丁文](chapter1/824-shan-yang-la-ding-wen.md)
-  * [859 亲密字符串](chapter1/859-qin-mi-zi-fu-chuan.md)
-  * [893 特殊等价字符串组](chapter1/893-te-shu-deng-jia-zi-fu-chuan-zu.md)
-  * [917 仅仅反转字母](chapter1/917-jin-jin-fan-zhuan-zi-mu.md)
-  * [925 长按键入](chapter1/925-chang-an-jian-ru.md)
-  * [929 独特的电子邮件地址](chapter1/929-du-te-de-dian-zi-you-jian-di-zhi.md)
-  * [937 重新排列日志文件](chapter1/937-zhong-xin-pai-lie-ri-zhi-wen-jian.md)
-  * [1071 字符串的最大公因子](chapter1/1071-zi-fu-chuan-de-zui-da-gong-yin-zi.md)
-  * [1108 IP 地址无效化](chapter1/1108-ip-di-zhi-wu-xiao-hua.md)
-  * [1170 比较字符串最小字母出现频次](chapter1/1170-bi-jiao-zi-fu-chuan-zui-xiao-zi-mu-chu-xian-pin-ci.md)
-  * [1189 “气球” 的最大数量](chapter1/1189-qi-qiu-de-zui-da-shu-liang.md)
-  * [1221 分割平衡字符串](chapter1/1221-fen-ge-ping-heng-zi-fu-chuan.md)
-  * [1309 解码字母到整数映射](chapter1/1309-jie-ma-zi-mu-dao-zheng-shu-ying-she.md)
-  * [1332 删除回文子序列](chapter1/1332-shan-chu-hui-wen-zi-xu-lie.md)
-  * [1370 上升下降字符串](chapter1/1370-shang-sheng-xia-jiang-zi-fu-chuan.md)
-  * [1374 生成每种字符都是奇数个的字符串](chapter1/1374-sheng-cheng-mei-zhong-zi-fu-du-shi-qi-shu-ge-de-zi-fu-chuan.md)
-  * [1408 数组中的字符串匹配](chapter1/1408-shu-zu-zhong-de-zi-fu-chuan-pi-pei.md)
-  * [1417 重新格式化字符串](chapter1/1417-zhong-xin-ge-shi-hua-zi-fu-chuan.md)
-  * [1422 分割字符串的最大得分](chapter1/1422-fen-ge-zi-fu-chuan-de-zui-da-de-fen.md)
-  * [1436 旅行终点站](chapter1/1436-lv-hang-zhong-dian-zhan.md)
-  * [1446 连续字符](chapter1/1446-lian-xu-zi-fu.md)
-  * [1455 检查单词是否为句中其他单词的前缀](chapter1/1455-jian-cha-dan-ci-shi-fou-wei-ju-zhong-qi-ta-dan-ci-de-qian-zhui.md)
-  * [1496 判断路径是否相交](chapter1/1496-pan-duan-lu-jing-shi-fou-xiang-jiao.md)
-  * [1507 转变日期格式](chapter1/1507-zhuan-bian-ri-qi-ge-shi.md)
-  * [1544 整理字符串](chapter1/1544-zheng-li-zi-fu-chuan.md)
-  * [1556 千位分隔数](chapter1/1556-qian-wei-fen-ge-shu.md)
-  * [1576 替换所有的问号](chapter1/1576-ti-huan-suo-you-de-wen-hao.md)
-  * [1592 重新排列单词间的空格](chapter1/1592-zhong-xin-pai-lie-dan-ci-jian-de-kong-ge.md)
-* [第一章 字符串-中等题](chapter1-1/README.md)
-  * [3 无重复字符的最长子串](chapter1-1/3-wu-zhong-fu-zi-fu-de-zui-chang-zi-chuan.md)
-  * [5 最长回文子串](chapter1-1/5-zui-chang-hui-wen-zi-chuan.md)
-  * [6 Z 字形变换](chapter1-1/6z-zi-xing-bian-huan.md)
-  * [8 字符串转换整数 \(atoi\)](chapter1-1/8-zi-fu-chuan-zhuan-huan-zheng-shu-atoi.md)
-  * [12 整数转罗马数字](chapter1-1/12-zheng-shu-zhuan-luo-ma-shu-zi.md)
-  * [17 电话号码的字母组合](chapter1-1/17-dian-hua-hao-ma-de-zi-mu-zu-he.md)
-  * [22 括号生成](chapter1-1/22-kuo-hao-sheng-cheng.md)
-  * [43 字符串相乘](chapter1-1/43-zi-fu-chuan-xiang-cheng.md)
-  * [49 字母异位词分组](chapter1-1/49-zi-mu-yi-wei-ci-fen-zu.md)
-  * [71 简化路径](chapter1-1/71-jian-hua-lu-jing.md)
-  * [91 解码方法](chapter1-1/91-jie-ma-fang-fa.md)
-  * [93 复原IP地址](chapter1-1/93-fu-yuan-ip-di-zhi.md)
-  * [151 翻转字符串里的单词](chapter1-1/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci.md)
-  * [165 比较版本号](chapter1-1/165-bi-jiao-ban-ben-hao.md)
-  * [227 基本计算器 II](chapter1-1/227-ji-ben-ji-suan-qi-ii.md)
-  * [385 迷你语法分析器](chapter1-1/385-mi-ni-yu-fa-fen-xi-qi.md)
-  * [443 压缩字符串](chapter1-1/443-ya-suo-zi-fu-chuan.md)
-  * [468 验证IP地址](chapter1-1/468-yan-zheng-ip-di-zhi.md)
-  * [522 最长特殊序列 II](chapter1-1/522-zui-chang-te-shu-xu-lie-ii.md)
-  * [537 复数乘法](chapter1-1/537-fu-shu-cheng-fa.md)
-  * [539 最小时间差](chapter1-1/539-zui-xiao-shi-jian-cha.md)
-  * [553 最优除法](chapter1-1/553-zui-you-chu-fa.md)
-  * [556 下一个更大元素 III](chapter1-1/556-xia-yi-ge-geng-da-yuan-su-iii.md)
-  * [583 两个字符串的删除操作](chapter1-1/583-liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo.md)
-  * [609 在系统中查找重复文件](chapter1-1/609-zai-xi-tong-zhong-cha-zhao-zhong-fu-wen-jian.md)
-  * [621 任务调度器](chapter1-1/621-ren-wu-tiao-du-qi.md)
-  * [622 设计循环队列](chapter1-1/622-she-ji-xun-huan-dui-lie.md)
-  * [641 设计循环双端队列](chapter1-1/641-she-ji-xun-huan-shuang-duan-dui-lie.md)
-  * [647 回文子串](chapter1-1/647-hui-wen-zi-chuan.md)
-  * [678 有效的括号字符串](chapter1-1/678-you-xiao-de-kuo-hao-zi-fu-chuan.md)
-  * [686 重复叠加字符串匹配](chapter1-1/686-zhong-fu-die-jia-zi-fu-chuan-pi-pei.md)
-  * [722 删除注释](chapter1-1/722-shan-chu-zhu-shi.md)
-  * [767 重构字符串](chapter1-1/767-zhong-gou-zi-fu-chuan.md)
-  * [791 自定义字符串排序](chapter1-1/791-zi-ding-yi-zi-fu-chuan-pai-xu.md)
-  * [809 情感丰富的文字](chapter1-1/809-qing-gan-feng-fu-de-wen-zi.md)
-  * [816 模糊坐标](chapter1-1/816-mo-hu-zuo-biao.md)
-  * [831 隐藏个人信息](chapter1-1/831-yin-cang-ge-ren-xin-xi.md)
-  * [833 字符串中的查找与替换](chapter1-1/833-zi-fu-chuan-zhong-de-cha-zhao-yu-ti-huan.md)
-  * [842 将数组拆分成斐波那契序列](chapter1-1/842-jiang-shu-zu-chai-fen-cheng-fei-bo-na-qi-xu-lie.md)
-  * [848 字母移位](chapter1-1/848-zi-mu-yi-wei.md)
-  * [856 括号的分数](chapter1-1/856-kuo-hao-de-fen-shu.md)
-  * [890 查找和替换模式](chapter1-1/890-cha-zhao-he-ti-huan-mo-shi.md)
-  * [916 单词子集](chapter1-1/916-dan-ci-zi-ji.md)
-  * [966 元音拼写检查器](chapter1-1/966-yuan-yin-pin-xie-jian-cha-qi.md)
-  * [1003 检查替换后的词是否有效](chapter1-1/1003-jian-cha-ti-huan-hou-de-ci-shi-fou-you-xiao.md)
-  * [1016 子串能表示从 1 到 N 数字的二进制串](chapter1-1/1016-zi-chuan-neng-biao-shi-cong-1-dao-n-shu-zi-de-er-jin-zhi-chuan.md)
-  * [1023 驼峰式匹配](chapter1-1/1023-tuo-feng-shi-pi-pei.md)
-  * [1081 不同字符的最小子序列](chapter1-1/1081-bu-tong-zi-fu-de-zui-xiao-zi-xu-lie.md)
-  * [1138 字母板上的路径](chapter1-1/1138-zi-mu-ban-shang-de-lu-jing.md)
-  * [1156 单字符重复子串的最大长度](chapter1-1/1156-dan-zi-fu-zhong-fu-zi-chuan-de-zui-da-chang-du.md)
-  * [1169 查询无效交易](chapter1-1/1169-cha-xun-wu-xiao-jiao-yi.md)
-  * [1177 构建回文串检测](chapter1-1/1177-gou-jian-hui-wen-chuan-jian-ce.md)
+  * 824 山羊拉丁文
+  * 859 亲密字符串
+  * 893 特殊等价字符串组
+  * 917 仅仅反转字母
+  * 925 长按键入
+  * 929 独特的电子邮件地址
+  * 937 重新排列日志文件
+  * 1071 字符串的最大公因子
+  * 1108 IP 地址无效化
+  * 1170 比较字符串最小字母出现频次
+  * 1189 “气球” 的最大数量
+  * 1221 分割平衡字符串
+  * 1309 解码字母到整数映射
+  * 1332 删除回文子序列
+  * 1370 上升下降字符串
+  * 1374 生成每种字符都是奇数个的字符串
+  * 1408 数组中的字符串匹配
+  * 1417 重新格式化字符串
+  * 1422 分割字符串的最大得分
+  * 1436 旅行终点站
+  * 1446 连续字符
+  * 1455 检查单词是否为句中其他单词的前缀
+  * 1496 判断路径是否相交
+  * 1507 转变日期格式
+  * 1544 整理字符串
+  * 1556 千位分隔数
+  * 1576 替换所有的问号
+  * 1592 重新排列单词间的空格
+* [第一章 字符串-中等题](chapter1/README.md)
+  * 3 无重复字符的最长子串
+  * 5 最长回文子串 
+  * 6 Z 字形变换
+  * 8 字符串转换整数 \(atoi\) 
+  * 12 整数转罗马数字
+  * 17 电话号码的字母组合  
+  * 22 括号生成
+  * 43 字符串相乘 
+  * 49 字母异位词分组
+  * 71 简化路径
+  * 91 解码方法
+  * 93 复原IP地址  
+  * 151 翻转字符串里的单词 
+  * 165 比较版本号  
+  * 227 基本计算器 II  
+  * 385 迷你语法分析器  
+  * 443 压缩字符串  
+  * 468 验证IP地址
+  * 522 最长特殊序列 II  
+  * 537 复数乘法  
+  * 539 最小时间差  
+  * 553 最优除法  
+  * 556 下一个更大元素 III  
+  * 583 两个字符串的删除操作
+  * 609 在系统中查找重复文件  
+  * 621 任务调度器  
+  * 622 设计循环队列 
+  * 641 设计循环双端队列
+  * 647 回文子串  
+  * 678 有效的括号字符串  
+  * 686 重复叠加字符串匹配  
+  * 722 删除注释  
+  * 767 重构字符串  
+  * 791 自定义字符串排序  
+  * 809 情感丰富的文字 
+  * 816 模糊坐标  
+  * 831 隐藏个人信息 
+  * 833 字符串中的查找与替换
+  * 842 将数组拆分成斐波那契序列  
+  * 848 字母移位
+  * 856 括号的分数  
+  * 890 查找和替换模式
+  * 916 单词子集  
+  * 966 元音拼写检查器  
+  * 1003 检查替换后的词是否有效  
+  * 1016 子串能表示从 1 到 N 数字的二进制串
+  * 1023 驼峰式匹配
+  * 1081 不同字符的最小子序列  
+  * 1138 字母板上的路径  
+  * 1156 单字符重复子串的最大长度 
+  * 1169 查询无效交易  
+  * 1177 构建回文串检测 
 * [第二章 二叉树-简单题](chapter2/README.md)
-  * [100 相同的树](chapter2/100-xiang-tong-de-shu.md)
-  * [101 对称二叉树](chapter2/101-dui-cheng-er-cha-shu.md)
-  * [104 二叉树的最大深度](chapter2/104-er-cha-shu-de-zui-da-shen-du.md)
-  * [107 二叉树的层次遍历 II](chapter2/107-er-cha-shu-de-ceng-ci-bian-li-ii.md)
-  * [108 将有序数组转换为二叉搜索树](chapter2/108-jiang-you-xu-shu-zu-zhuan-huan-wei-er-cha-sou-suo-shu.md)
-  * [110 平衡二叉树](chapter2/110-ping-heng-er-cha-shu.md)
-  * [111 二叉树的最小深度](chapter2/111-er-cha-shu-de-zui-xiao-shen-du.md)
-  * [112 路径总和](chapter2/112-lu-jing-zong-he.md)
-  * [226 翻转二叉树](chapter2/226-fan-zhuan-er-cha-shu.md)
-  * [235 二叉搜索树的最近公共祖先](chapter2/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
-  * [257 二叉树的所有路径](chapter2/257-er-cha-shu-de-suo-you-lu-jing.md)
-  * [404 左叶子之和](chapter2/404-zuo-ye-zi-zhi-he.md)
-  * [501 二叉搜索树中的众数](chapter2/501-er-cha-sou-suo-shu-zhong-de-zhong-shu.md)
-  * [530 二叉搜索树的最小绝对差](chapter2/530-er-cha-sou-suo-shu-de-zui-xiao-jue-dui-cha.md)
-  * [538 把二叉搜索树转换为累加树](chapter2/538-ba-er-cha-sou-suo-shu-zhuan-huan-wei-lei-jia-shu.md)
-  * [543 二叉树的直径](chapter2/543-er-cha-shu-de-zhi-jing.md)
-  * [559 N叉树的最大深度](chapter2/559ncha-shu-de-zui-da-shen-du.md)
-  * [563 二叉树的坡度](chapter2/563-er-cha-shu-de-po-du.md)
-  * [572 另一个树的子树](chapter2/572-ling-yi-ge-shu-de-zi-shu.md)
-  * [589 N叉树的前序遍历](chapter2/589ncha-shu-de-qian-xu-bian-li.md)
-  * [590 N叉树的后序遍历](chapter2/590ncha-shu-de-hou-xu-bian-li.md)
+  * 100 相同的树
+  * 101 对称二叉树
+  * 104 二叉树的最大深度
+  * 107 二叉树的层次遍历 II
+  * 108 将有序数组转换为二叉搜索树
+  * 110 平衡二叉树
+  * 111 二叉树的最小深度
+  * 112 路径总和
+  * 226 翻转二叉树
+  * 235 二叉搜索树的最近公共祖先
+  * 257 二叉树的所有路径
+  * 404 左叶子之和
+  * 501 二叉搜索树中的众数
+  * 530 二叉搜索树的最小绝对差
+  * 538 把二叉搜索树转换为累加树
+  * 543 二叉树的直径
+  * 559 N叉树的最大深度
+  * 563 二叉树的坡度
+  * 572 另一个树的子树
+  * 589 N叉树的前序遍历
+  * 590 N叉树的后序遍历
   * [606 根据二叉树创建字符串](chapter2/606-gen-ju-er-cha-shu-chuang-jian-zi-fu-chuan.md)
   * [637 二叉树的层平均值](chapter2/637-er-cha-shu-de-ceng-ping-jun-zhi.md)
   * [653 两数之和 IV - 输入 BST](chapter2/653-liang-shu-zhi-he-iv-shu-ru-bst.md)
-  * [669 修剪二叉搜索树](chapter2/669-xiu-jian-er-cha-sou-suo-shu.md)
-  * [671 二叉树中第二小的节点](chapter2/671-er-cha-shu-zhong-di-er-xiao-de-jie-dian.md)
-  * [687 最长同值路径](chapter2/687-zui-chang-tong-zhi-lu-jing.md)
-  * [700 二叉搜索树中的搜索](chapter2/700-er-cha-sou-suo-shu-zhong-de-sou-suo.md)
-  * [783 二叉搜索树节点最小距离](chapter2/783-er-cha-sou-suo-shu-jie-dian-zui-xiao-ju-li.md)
-  * [872 叶子相似的树](chapter2/872-ye-zi-xiang-si-de-shu.md)
-  * [897 递增顺序查找树](chapter2/897-di-zeng-shun-xu-cha-zhao-shu.md)
-  * [938 二叉搜索树的范围和](chapter2/938-er-cha-sou-suo-shu-de-fan-wei-he.md)
-  * [965 单值二叉树](chapter2/965-dan-zhi-er-cha-shu.md)
-  * [993 二叉树的堂兄弟节点](chapter2/993-er-cha-shu-de-tang-xiong-di-jie-dian.md)
-  * [1022 从根到叶的二进制数之和](chapter2/1022-cong-gen-dao-ye-de-er-jin-zhi-shu-zhi-he.md)
+  * 669 修剪二叉搜索树
+  * 671 二叉树中第二小的节点
+  * 687 最长同值路径
+  * 700 二叉搜索树中的搜索
+  * 783 二叉搜索树节点最小距离
+  * 872 叶子相似的树
+  * 897 递增顺序查找树
+  * 938 二叉搜索树的范围和
+  * 965 单值二叉树
+  * 993 二叉树的堂兄弟节点
+  * 1022 从根到叶的二进制数之和
 * [第三章 链表](chapter3/README.md)
-  * [21 合并两个有序链表🔹](chapter3/21-he-bing-liang-ge-you-xu-lian-biao.md)
-  * [83 删除排序链表中的重复元素🔹](chapter3/83-shan-chu-pai-xu-lian-biao-zhong-de-zhong-fu-yuan-su.md)
-  * [141 环形链表🔹](chapter3/141-huan-xing-lian-biao.md)
-  * [160 相交链表🔹](chapter3/160-xiang-jiao-lian-biao.md)
-  * [203 移除链表元素🔹](chapter3/203-yi-chu-lian-biao-yuan-su.md)
-  * [206 反转链表🔹](chapter3/206-fan-zhuan-lian-biao.md)
-  * [234 回文链表🔹](chapter3/234-hui-wen-lian-biao.md)
-  * [237 删除链表中的节点🔹](chapter3/237-shan-chu-lian-biao-zhong-de-jie-dian.md)
-  * [617 合并二叉树🔹](chapter3/617-he-bing-er-cha-shu.md)
-  * [876 链表的中间结点🔹](chapter3/876-lian-biao-de-zhong-jian-jie-dian.md)
-  * [1290 二进制链表转整数🔹](chapter3/1290-er-jin-zhi-lian-biao-zhuan-zheng-shu.md)
-  * [2 两数相加🔸](chapter3/2-liang-shu-xiang-jia.md)
-  * [19 删除链表的倒数第N个节点🔸](chapter3/19-shan-chu-lian-biao-de-dao-shu-dinge-jie-dian.md)
-  * [24 两两交换链表中的节点🔸](chapter3/24-liang-liang-jiao-huan-lian-biao-zhong-de-jie-dian.md)
-  * [61 旋转链表🔸](chapter3/61-xuan-zhuan-lian-biao.md)
-  * [82 删除排序链表中的重复元素 II🔸](chapter3/82-shan-chu-pai-xu-lian-biao-zhong-de-zhong-fu-yuan-su-ii.md)
-  * [86 分隔链表🔸](chapter3/86-fen-ge-lian-biao.md)
-  * [92 反转链表 II🔸](chapter3/92-fan-zhuan-lian-biao-ii.md)
-  * [109 有序链表转换二叉搜索树🔸](chapter3/109-you-xu-lian-biao-zhuan-huan-er-cha-sou-suo-shu.md)
-  * [138 复制带随机指针的链表🔸](chapter3/138-fu-zhi-dai-sui-ji-zhi-zhen-de-lian-biao.md)
-  * [142 环形链表 II🔸](chapter3/142-huan-xing-lian-biao-ii.md)
-  * [143 重排链表🔸](chapter3/143-zhong-pai-lian-biao.md)
-  * [147 对链表进行插入排序🔸](chapter3/147-dui-lian-biao-jin-hang-cha-ru-pai-xu.md)
-  * [148 排序链表🔸](chapter3/148-pai-xu-lian-biao.md)
-  * [328 奇偶链表🔸](chapter3/328-qi-ou-lian-biao.md)
-  * [430 扁平化多级双向链表🔸](chapter3/430-bian-ping-hua-duo-ji-shuang-xiang-lian-biao.md)
-  * [445 两数相加 II🔸](chapter3/445-liang-shu-xiang-jia-ii.md)
-  * [707 设计链表🔸](chapter3/707-she-ji-lian-biao.md)
-  * [725 分隔链表🔸](chapter3/725-fen-ge-lian-biao.md)
-  * [817 链表组件🔸](chapter3/817-lian-biao-zu-jian.md)
-  * [1019 链表中的下一个更大节点🔸](chapter3/1019-lian-biao-zhong-de-xia-yi-ge-geng-da-jie-dian.md)
-  * [1171 从链表中删去总和值为零的连续节点🔸](chapter3/1171-cong-lian-biao-zhong-shan-qu-zong-he-zhi-wei-ling-de-lian-xu-jie-dian.md)
-  * [1367 二叉树中的列表🔸](chapter3/1367-er-cha-shu-zhong-de-lie-biao.md)
-  * [23 合并K个升序链表💥](chapter3/23-he-bingkge-sheng-xu-lian-biao.md)
-  * [25 K 个一组翻转链表💥](chapter3/25k-ge-yi-zu-fan-zhuan-lian-biao.md)
-* [第四章 栈](chapter4.md)
-* [第五章 队列](di-wu-zhang-dui-lie/README.md)
-  * [933 最近的请求次数🔹](di-wu-zhang-dui-lie/933-zui-jin-de-qing-qiu-ci-shu.md)
-  * [621    任务调度器🔸](di-wu-zhang-dui-lie/621-ren-wu-tiao-du-qi.md)
-  * [622 设计循环队列🔸](di-wu-zhang-dui-lie/622-she-ji-xun-huan-dui-lie.md)
-  * [641 设计循环双端队列🔸](di-wu-zhang-dui-lie/641-she-ji-xun-huan-shuang-duan-dui-lie.md)
-  * [363 矩形区域不超过 K 的最大数值和💥](di-wu-zhang-dui-lie/363-ju-xing-qu-yu-bu-chao-guo-k-de-zui-da-shu-zhi-he.md)
-  * [862 和至少为 K 的最短子数组💥](di-wu-zhang-dui-lie/862-he-zhi-shao-wei-k-de-zui-duan-zi-shu-zu.md)
-  * [滑动窗口的最大值](di-wu-zhang-dui-lie/hua-dong-chuang-kou-de-zui-da-zhi.md)
-  * [第 k 个数](di-wu-zhang-dui-lie/di-k-ge-shu.md)
+  * 21 合并两个有序链表🔹
+  * 83 删除排序链表中的重复元素🔹
+  * 141 环形链表🔹
+  * 160 相交链表🔹
+  * 203 移除链表元素🔹
+  * 206 反转链表🔹
+  * 234 回文链表🔹
+  * 237 删除链表中的节点🔹
+  * 617 合并二叉树🔹
+  * 876 链表的中间结点🔹
+  * 1290 二进制链表转整数🔹
+  * 2 两数相加🔸 
+  * 19 删除链表的倒数第N个节点🔸
+  * 24 两两交换链表中的节点🔸
+  * 61 旋转链表🔸
+  * 82 删除排序链表中的重复元素 II🔸
+  * 86 分隔链表🔸
+  * 92 反转链表 II🔸
+  * 109 有序链表转换二叉搜索树🔸
+  * 138 复制带随机指针的链表🔸
+  * 142 环形链表 II🔸
+  * 143 重排链表🔸
+  * 147 对链表进行插入排序🔸
+  * 148 排序链表🔸
+  * 328 奇偶链表🔸
+  * 430 扁平化多级双向链表🔸
+  * 445 两数相加 II🔸
+  * 707 设计链表🔸
+  * 725 分隔链表🔸
+  * 817 链表组件🔸
+  * 1019 链表中的下一个更大节点🔸
+  * 1171 从链表中删去总和值为零的连续节点🔸
+  * 1367 二叉树中的列表🔸
+  * 23 合并K个升序链表💥
+  * 25 K 个一组翻转链表💥
+* [第四章 栈](chapter4/README.md)
+* [第五章 队列](chapter5/README.md)
+  * 933 最近的请求次数🔹 
+  * 621    任务调度器🔸  
+  * 622 设计循环队列🔸 
+  * 641 设计循环双端队列🔸  
+  * 363 矩形区域不超过 K 的最大数值和💥 
+  * 862 和至少为 K 的最短子数组💥 
+  * 滑动窗口的最大值  
+  * 第 k 个数  
 * [第六章 堆](chapter6/README.md)
-  * [703    数据流中的第K大元素🔹](chapter6/703-shu-ju-liu-zhong-de-di-k-da-yuan-su-d83d-dd39.md)
-  * [1046 最后一块石头的重量🔹](chapter6/1046-zui-hou-yi-kuai-shi-tou-de-zhong-liang-d83d-dd39.md)
-  * [215    数组中的第K个最大元素🔸](chapter6/215-shu-zu-zhong-de-dikge-zui-da-yuan-su.md)
-  * [264    丑数 II🔸](chapter6/264-chou-shu-ii.md)
-  * [313    超级丑数🔸](chapter6/313-chao-ji-chou-shu.md)
-  * [347    前 K 个高频元素🔸](chapter6/347-qian-k-ge-gao-pin-yuan-su.md)
-  * [355    设计推特🔸](chapter6/355-she-ji-tui-te.md)
-  * [373    查找和最小的K对数字🔸](chapter6/373-cha-zhao-he-zui-xiao-dekdui-shu-zi.md)
-  * [378    有序矩阵中第K小的元素🔸](chapter6/378-you-xu-ju-zhen-zhong-dikxiao-de-yuan-su.md)
-  * [451    根据字符出现频率排序🔸](chapter6/451-gen-ju-zi-fu-chu-xian-pin-shuai-pai-xu.md)
-  * [659    分割数组为连续子序列🔸](chapter6/659-fen-ge-shu-zu-wei-lian-xu-zi-xu-lie.md)
-  * [692    前K个高频单词🔸](chapter6/692-qiankge-gao-pin-dan-ci.md)
-  * [743    网络延迟时间🔸](chapter6/743-wang-luo-yan-chi-shi-jian.md)
-  * [767    重构字符串🔸](chapter6/767-zhong-gou-zi-fu-chuan.md)
-  * [787    K 站中转内最便宜的航班🔸](chapter6/787-k-zhan-zhong-zhuan-nei-zui-bian-yi-de-hang-ban.md)
-  * [973    最接近原点的 K 个点🔸](chapter6/973-zui-jie-jin-yuan-dian-de-k-ge-dian.md)
-  * [1054 距离相等的条形码🔸](chapter6/1054-ju-li-xiang-deng-de-tiao-xing-ma.md)
-  * [23 合并K个升序链表💥](chapter6/23-he-bingkge-sheng-xu-lian-biao.md)
-  * [218 天际线问题💥](chapter6/218-tian-ji-xian-wen-ti.md)
-  * [239 滑动窗口最大值💥](chapter6/239-hua-dong-chuang-kou-zui-da-zhi.md)
-  * [295 数据流的中位数💥](chapter6/295-shu-ju-liu-de-zhong-wei-shu.md)
-  * [407 接雨水 II💥](chapter6/407-jie-yu-shui-ii.md)
-  * [502 IPO💥](chapter6/502-ipo.md)
-  * [719 找出第 k 小的距离对💥](chapter6/719-zhao-chu-di-k-xiao-de-ju-li-dui.md)
-  * [778 水位上升的泳池中游泳💥](chapter6/778-shui-wei-shang-sheng-de-yong-chi-zhong-you-yong.md)
-  * [786 第 K 个最小的素数分数💥](chapter6/786-di-k-ge-zui-xiao-de-su-shu-fen-shu.md)
-  * [818 赛车💥](chapter6/818-sai-che.md)
-  * [857 雇佣 K 名工人的最低成本💥](chapter6/857-gu-yong-k-ming-gong-ren-de-zui-di-cheng-ben.md)
-  * [864 获取所有钥匙的最短路径💥](chapter6/864-huo-qu-suo-you-yue-chi-de-zui-duan-lu-jing.md)
-  * [871 最低加油次数💥](chapter6/871-zui-di-jia-you-ci-shu.md)
-  * [882 细分图中的可到达结点💥](chapter6/882-xi-fen-tu-zhong-de-ke-dao-da-jie-dian.md)
-  * [1439 有序矩阵中的第 k 个最小数组和💥](chapter6/1439-you-xu-ju-zhen-zhong-de-di-k-ge-zui-xiao-shu-zu-he.md)
-* [第七章 图](chapter7.md)
+  * [703    数据流中的第K大元素🔹 ](chapter6/703-shu-ju-liu-zhong-de-di-k-da-yuan-su-d83d-dd39.md)
+  * [1046 最后一块石头的重量🔹 ](chapter6/1046-zui-hou-yi-kuai-shi-tou-de-zhong-liang-d83d-dd39.md)
+  * 215    数组中的第K个最大元素🔸  
+  * 264    丑数 II🔸
+  * 313    超级丑数🔸
+  * 347    前 K 个高频元素🔸  
+  * 355    设计推特🔸
+  * 373    查找和最小的K对数字🔸  
+  * 378    有序矩阵中第K小的元素🔸   
+  * 451    根据字符出现频率排序🔸   
+  * 659    分割数组为连续子序列🔸   
+  * 692    前K个高频单词🔸
+  * 743    网络延迟时间🔸 
+  * 767    重构字符串🔸
+  * 787    K 站中转内最便宜的航班🔸  
+  * 973    最接近原点的 K 个点🔸
+  * 1054 距离相等的条形码🔸
+  * 23 合并K个升序链表💥 
+  * 218 天际线问题💥
+  * 239 滑动窗口最大值💥 
+  * 295 数据流的中位数💥    
+  * 407 接雨水 II💥  
+  * 502 IPO💥  
+  * 719 找出第 k 小的距离对💥  
+  * 778 水位上升的泳池中游泳💥  
+  * 786 第 K 个最小的素数分数💥  
+  * 818 赛车💥  
+  * 857 雇佣 K 名工人的最低成本💥 
+  * 864 获取所有钥匙的最短路径💥  
+  * 871 最低加油次数💥  
+  * 882 细分图中的可到达结点💥  
+  * 1439 有序矩阵中的第 k 个最小数组和💥  
+* [第七章 图](chapter7/README.md)
 * [第八章 动态规划](chapter8/README.md)
-  * [53 最大子序和🔹](chapter8/53-zui-da-zi-xu-he.md)
-  * [70 爬楼梯🔹](chapter8/70-pa-lou-ti.md)
-  * [121 买卖股票的最佳时机🔹](chapter8/121-mai-mai-gu-piao-de-zui-jia-shi-ji.md)
-  * [198 打家劫舍🔹](chapter8/198-da-jia-jie-she.md)
-  * [303 区域和检索 - 数组不可变🔹](chapter8/303-qu-yu-he-jian-suo-shu-zu-bu-ke-bian.md)
-  * [392 判断子序列🔹](chapter8/392-pan-duan-zi-xu-lie.md)
-  * [746 使用最小花费爬楼梯🔹](chapter8/746-shi-yong-zui-xiao-hua-fei-pa-lou-ti.md)
-  * [1025 除数博弈🔹](chapter8/1025-chu-shu-bo-yi.md)
-  * [5 最长回文子串🔸](chapter8/5-zui-chang-hui-wen-zi-chuan.md)
-  * [62 不同路径🔸](chapter8/62-bu-tong-lu-jing.md)
-  * [63 不同路径 II🔸](chapter8/63-bu-tong-lu-jing-ii.md)
-  * [64 最小路径和🔸](chapter8/64-zui-xiao-lu-jing-he.md)
-  * [91 解码方法🔸](chapter8/91-jie-ma-fang-fa.md)
-  * [95 不同的二叉搜索树 II🔸](chapter8/95-bu-tong-de-er-cha-sou-suo-shu-ii.md)
-  * [96 不同的二叉搜索树🔸](chapter8/96-bu-tong-de-er-cha-sou-suo-shu.md)
-  * [120 三角形最小路径和🔸](chapter8/120-san-jiao-xing-zui-xiao-lu-jing-he.md)
-  * [139 单词拆分🔸](chapter8/139-dan-ci-chai-fen.md)
-  * [152 乘积最大子数组🔸](chapter8/152-cheng-ji-zui-da-zi-shu-zu.md)
-  * [213 打家劫舍 II🔸](chapter8/213-da-jia-jie-she-ii.md)
-  * [221 最大正方形🔸](chapter8/221-zui-da-zheng-fang-xing.md)
-  * [264 丑数 II🔸](chapter8/264-chou-shu-ii.md)
-  * [279 完全平方数🔸](chapter8/279-wan-quan-ping-fang-shu.md)
-  * [300 最长上升子序列🔸](chapter8/300-zui-chang-shang-sheng-zi-xu-lie.md)
-  * [304 二维区域和检索 - 矩阵不可变🔸](chapter8/304-er-wei-qu-yu-he-jian-suo-ju-zhen-bu-ke-bian.md)
-  * [309 最佳买卖股票时机含冷冻期🔸](chapter8/309-zui-jia-mai-mai-gu-piao-shi-ji-han-leng-dong-qi.md)
-  * [322 零钱兑换🔸](chapter8/322-ling-qian-dui-huan.md)
-  * [338 比特位计数🔸](chapter8/338-bi-te-wei-ji-shu.md)
-  * [343 整数拆分🔸](chapter8/343-zheng-shu-chai-fen.md)
-  * [357 计算各个位数不同的数字个数🔸](chapter8/357-ji-suan-ge-ge-wei-shu-bu-tong-de-shu-zi-ge-shu.md)
-  * [368 最大整除子集🔸](chapter8/368-zui-da-zheng-chu-zi-ji.md)
-  * [375 猜数字大小 II🔸](chapter8/375-cai-shu-zi-da-xiao-ii.md)
-  * [376 摆动序列🔸](chapter8/376-bai-dong-xu-lie.md)
-  * [377 组合总和 Ⅳ🔸](chapter8/377-zu-he-zong-he.md)
-  * [413 等差数列划分🔸](chapter8/413-deng-cha-shu-lie-hua-fen.md)
-  * [416 分割等和子集🔸](chapter8/416-fen-ge-deng-he-zi-ji.md)
-  * [464 我能赢吗🔸](chapter8/464-wo-neng-ying-ma.md)
-  * [467 环绕字符串中唯一的子字符串🔸](chapter8/467-huan-rao-zi-fu-chuan-zhong-wei-yi-de-zi-zi-fu-chuan.md)
-  * [474 一和零🔸](chapter8/474-yi-he-ling.md)
-  * [486 预测赢家🔸](chapter8/486-yu-ce-ying-jia.md)
-  * [494 目标和🔸](chapter8/494-mu-biao-he.md)
-  * [516 最长回文子序列🔸](chapter8/516-zui-chang-hui-wen-zi-xu-lie.md)
-  * [523 连续的子数组和🔸](chapter8/523-lian-xu-de-zi-shu-zu-he.md)
-  * [576 出界的路径数🔸](chapter8/576-chu-jie-de-lu-jing-shu.md)
-  * [638 大礼包🔸](chapter8/638-da-li-bao.md)
-  * [646 最长数对链🔸](chapter8/646-zui-chang-shu-dui-lian.md)
-  * [647 回文子串🔸](chapter8/647-hui-wen-zi-chuan.md)
-  * [650 只有两个键的键盘🔸](chapter8/650-zhi-you-liang-ge-jian-de-jian-pan.md)
-  * [673 最长递增子序列的个数🔸](chapter8/673-zui-chang-di-zeng-zi-xu-lie-de-ge-shu.md)
-  * [688 “马”在棋盘上的概率🔸](chapter8/688-ma-zai-qi-pan-shang-de-gai-shuai.md)
-  * [698 划分为k个相等的子集🔸](chapter8/698-hua-fen-weikge-xiang-deng-de-zi-ji.md)
-  * [712 两个字符串的最小ASCII删除和🔸](chapter8/712-liang-ge-zi-fu-chuan-de-zui-xiao-ascii-shan-chu-he.md)
-  * [714 买卖股票的最佳时机含手续费🔸](chapter8/714-mai-mai-gu-piao-de-zui-jia-shi-ji-han-shou-xu-fei.md)
-  * [718 最长重复子数组🔸](chapter8/718-zui-chang-zhong-fu-zi-shu-zu.md)
-* [第九章 深度优先搜索](di-jiu-zhang-shen-du-you-xian-sou-suo.md)
-* [第十章 广度优先搜索](di-shi-zhang-guang-du-you-xian-sou-suo.md)
-* [第十一章 排序](di-shi-yi-zhang-pai-xu.md)
-* [第十二章 回溯算法](di-shi-er-zhang-hui-su-suan-fa.md)
-* [第十三章 分治算法](di-shi-san-zhang-fen-zhi-suan-fa.md)
-* [第十四章 线段树](di-shi-si-zhang-xian-duan-shu.md)
-* [第十五章 字典树](di-shi-wu-zhang-zi-dian-shu.md)
-* [第十六章 其他](di-shi-liu-zhang-qi-ta/README.md)
-  * [292 Nim 游戏🔹](di-shi-liu-zhang-qi-ta/292-nim-you-xi.md)
-  * [375 猜数字大小 II🔸](di-shi-liu-zhang-qi-ta/375-cai-shu-zi-da-xiao-ii.md)
-  * [464 我能赢吗🔸](di-shi-liu-zhang-qi-ta/464-wo-neng-ying-ma.md)
-  * [486 预测赢家🔸](di-shi-liu-zhang-qi-ta/486-yu-ce-ying-jia.md)
-  * [843 猜猜这个单词💥](di-shi-liu-zhang-qi-ta/843-cai-cai-zhe-ge-dan-ci.md)
-  * [877 石子游戏🔸](di-shi-liu-zhang-qi-ta/877-shi-zi-you-xi.md)
-  * [913 猫和老鼠💥](di-shi-liu-zhang-qi-ta/913-mao-he-lao-shu.md)
+  * 53 最大子序和🔹 
+  * 70 爬楼梯🔹  
+  * 121 买卖股票的最佳时机🔹 
+  * 198 打家劫舍🔹   
+  * 303 区域和检索 - 数组不可变🔹  
+  * 392 判断子序列🔹  
+  * 746 使用最小花费爬楼梯🔹 
+  * 1025 除数博弈🔹 
+  * 5 最长回文子串🔸   
+  * 62 不同路径🔸 
+  * 63 不同路径 II🔸
+  * 64 最小路径和🔸 
+  * 91 解码方法🔸  
+  * 95 不同的二叉搜索树 II🔸
+  * 96 不同的二叉搜索树🔸 
+  * 120 三角形最小路径和🔸  
+  * 139 单词拆分🔸  
+  * 152 乘积最大子数组🔸  
+  * 213 打家劫舍 II🔸  
+  * 221 最大正方形🔸 
+  * 264 丑数 II🔸 
+  * 279 完全平方数🔸  
+  * 300 最长上升子序列🔸 
+  * 304 二维区域和检索 - 矩阵不可变🔸
+  * 309 最佳买卖股票时机含冷冻期🔸
+  * 322 零钱兑换🔸 
+  * 338 比特位计数🔸  
+  * 343 整数拆分🔸 
+  * 357 计算各个位数不同的数字个数🔸
+  * 368 最大整除子集🔸
+  * 375 猜数字大小 II🔸 
+  * 376 摆动序列🔸  
+  * 377 组合总和 Ⅳ🔸
+  * 413 等差数列划分🔸
+  * 416 分割等和子集🔸 
+  * 464 我能赢吗🔸  
+  * 467 环绕字符串中唯一的子字符串🔸
+  * 474 一和零🔸 
+  * 486 预测赢家🔸 
+  * 494 目标和🔸 
+  * 516 最长回文子序列🔸  
+  * 523 连续的子数组和🔸
+  * 576 出界的路径数🔸
+  * 638 大礼包🔸
+  * 646 最长数对链🔸
+  * 647 回文子串🔸  
+  * 650 只有两个键的键盘🔸  
+  * 673 最长递增子序列的个数🔸
+  * 688 “马”在棋盘上的概率🔸 
+  * 698 划分为k个相等的子集🔸  
+  * 712 两个字符串的最小ASCII删除和🔸
+  * 714 买卖股票的最佳时机含手续费🔸 
+  * 718 最长重复子数组🔸 
+* [第九章 深度优先搜索](chapter9/README.md)
+* [第十章 广度优先搜索](chapter10/README.md)
+* [第十一章 排序](chapter11/README.md)
+* [第十二章 回溯算法](chapter12/README.md)
+* [第十三章 分治算法](chapter13/README.md)
+* [第十四章 线段树](chapter14/README.md)
+* [第十五章 字典树](chapter15/README.md)
+* [第十六章 其他](chapter16/README.md)
+  * 292 Nim 游戏🔹
+  * 375 猜数字大小 II🔸
+  * 464 我能赢吗🔸
+  * 486 预测赢家🔸 
+  * 843 猜猜这个单词💥
+  * 877 石子游戏🔸
+  * 913 猫和老鼠💥  
 * [力扣杯](chapter_a/README.md)
   * [LCP 01 猜数字 X](chapter_a/lcp-01-cai-shu-zi-d83d-dd39.md)
   * [LCP 02 分式化简🔹](chapter_a/lcp-02-fen-shi-hua-jian-d83d-dd39.md)
-  * [LCP 03 机器人大冒险🔸](chapter_a/lcp-03-ji-qi-ren-da-mao-xian-d83d-dd38.md)
-  * [LCP 04 覆盖💥](chapter_a/lcp-04-fu-gai.md)
-  * [LCP 05 发 LeetCoin💥](chapter_a/lcp-05-fa-leetcoin.md)
+  * [LCP 03 机器人大冒险🔸 ](chapter_a/lcp-03-ji-qi-ren-da-mao-xian-d83d-dd38.md)
+  * LCP 04 覆盖💥 
+  * LCP 05 发 LeetCoin💥 
   * [LCP 06 拿硬币 X](chapter_a/lcp-06-na-ying-bi-d83d-dd39.md)
   * [LCP 07 传递信息🔹](chapter_a/lcp-07-chuan-di-xin-xi-d83d-dd39.md)
-  * [LCP 08 剧情触发时间🔸](chapter_a/lcp-08-ju-qing-chu-fa-shi-jian.md)
-  * [LCP 09 最小跳跃次数💥](chapter_a/lcp-09-zui-xiao-tiao-yue-ci-shu.md)
-  * [LCP 10 二叉树任务调度💥](chapter_a/lcp-10-er-cha-shu-ren-wu-tiao-du.md)
+  * LCP 08 剧情触发时间🔸
+  * LCP 09 最小跳跃次数💥
+  * LCP 10 二叉树任务调度💥
   * [LCP 11 期望个数统计🔹](chapter_a/lcp-11-qi-wang-ge-shu-tong-ji-d83d-dd39.md)
-  * [LCP 12 小张刷题计划🔸](chapter_a/lcp-12-xiao-zhang-shua-ti-ji-hua.md)
-  * [LCP 13 寻宝💥](chapter_a/lcp-13-xun-bao.md)
-  * [LCP 14 切分数组💥](chapter_a/lcp-14-qie-fen-shu-zu.md)
-  * [LCP 15 游乐园的迷宫💥](chapter_a/lcp-15-you-le-yuan-de-mi-gong.md)
-  * [LCP 16 游乐园的游览计划💥](chapter_a/lcp-16-you-le-yuan-de-you-lan-ji-hua.md)
+  * LCP 12 小张刷题计划🔸
+  * LCP 13 寻宝💥
+  * LCP 14 切分数组💥 
+  * LCP 15 游乐园的迷宫💥
+  * LCP 16 游乐园的游览计划💥  
   * [LCP 17 速算机器人 X](chapter_a/lcp-17-su-suan-ji-qi-ren-d83d-dd39.md)
-  * [LCP 18 早餐组合🔹](chapter_a/lcp-18-zao-can-zu-he-d83d-dd39.md)
-  * [LCP 19 秋叶收藏集🔸](chapter_a/lcp-19-qiu-ye-shou-cang-ji.md)
-  * [LCP 20 快速公交💥](chapter_a/lcp-20-kuai-su-gong-jiao.md)
-  * [LCP 21 追逐游戏💥](chapter_a/lcp-21-zhui-zhu-you-xi.md)
-  * [LCP 22 黑白方格画🔹](chapter_a/lcp-22-hei-bai-fang-ge-hua-d83d-dd39.md)
-  * [LCP 23 魔术排列🔸](chapter_a/lcp-23-mo-shu-pai-lie.md)
-  * [LCP 24 数字游戏💥](chapter_a/lcp-24-shu-zi-you-xi.md)
-  * [LCP 25 古董键盘💥](chapter_a/lcp-25-gu-dong-jian-pan.md)
-  * [LCP 26 导航装置💥](chapter_a/lcp-26-dao-hang-zhuang-zhi.md)
-  * [LCP 27 黑盒光线反射💥](chapter_a/lcp-27-hei-he-guang-xian-fan-she.md)
-* [LeetCode 精选 TOP 面试题](leetcode-jing-xuan-top-mian-shi-ti/README.md)
-  * [1 两数之和](leetcode-jing-xuan-top-mian-shi-ti/1-liang-shu-zhi-he.md)
-  * [2 两数相加](leetcode-jing-xuan-top-mian-shi-ti/2-liang-shu-xiang-jia.md)
-  * [3 无重复字符的最长子串](leetcode-jing-xuan-top-mian-shi-ti/3-wu-zhong-fu-zi-fu-de-zui-chang-zi-chuan.md)
-  * [4 寻找两个正序数组的中位数](leetcode-jing-xuan-top-mian-shi-ti/4-xun-zhao-liang-ge-zheng-xu-shu-zu-de-zhong-wei-shu.md)
-  * [5 最长回文子串](leetcode-jing-xuan-top-mian-shi-ti/5-zui-chang-hui-wen-zi-chuan.md)
-  * [7 整数反转](leetcode-jing-xuan-top-mian-shi-ti/7-zheng-shu-fan-zhuan.md)
-  * [8 字符串转换整数 \(atoi\)](leetcode-jing-xuan-top-mian-shi-ti/8-zi-fu-chuan-zhuan-huan-zheng-shu-atoi.md)
-  * [10 正则表达式匹配](leetcode-jing-xuan-top-mian-shi-ti/10-zheng-ze-biao-da-shi-pi-pei.md)
-  * [11 盛最多水的容器](leetcode-jing-xuan-top-mian-shi-ti/11-sheng-zui-duo-shui-de-rong-qi.md)
-  * [13 罗马数字转整数](leetcode-jing-xuan-top-mian-shi-ti/13-luo-ma-shu-zi-zhuan-zheng-shu.md)
-  * [14 最长公共前缀](leetcode-jing-xuan-top-mian-shi-ti/14-zui-chang-gong-gong-qian-zhui.md)
-  * [15 三数之和](leetcode-jing-xuan-top-mian-shi-ti/15-san-shu-zhi-he.md)
-  * [17 电话号码的字母组合](leetcode-jing-xuan-top-mian-shi-ti/17-dian-hua-hao-ma-de-zi-mu-zu-he.md)
-  * [19 删除链表的倒数第N个节点](leetcode-jing-xuan-top-mian-shi-ti/19-shan-chu-lian-biao-de-dao-shu-dinge-jie-dian.md)
-  * [20 有效的括号](leetcode-jing-xuan-top-mian-shi-ti/20-you-xiao-de-kuo-hao.md)
-  * [21 合并两个有序链表](leetcode-jing-xuan-top-mian-shi-ti/21-he-bing-liang-ge-you-xu-lian-biao.md)
-  * [22 括号生成](leetcode-jing-xuan-top-mian-shi-ti/22-kuo-hao-sheng-cheng.md)
-  * [23 合并K个升序链表](leetcode-jing-xuan-top-mian-shi-ti/23-he-bingkge-sheng-xu-lian-biao.md)
-  * [26 删除排序数组中的重复项](leetcode-jing-xuan-top-mian-shi-ti/26-shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-xiang.md)
-  * [28 实现 strStr\(\)](leetcode-jing-xuan-top-mian-shi-ti/28-shi-xian-strstr.md)
-  * [29 两数相除](leetcode-jing-xuan-top-mian-shi-ti/29-liang-shu-xiang-chu.md)
-  * [33 搜索旋转排序数组](leetcode-jing-xuan-top-mian-shi-ti/33-sou-suo-xuan-zhuan-pai-xu-shu-zu.md)
-  * [34 在排序数组中查找元素的第一个和最后一个位置](leetcode-jing-xuan-top-mian-shi-ti/34-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-su-de-di-yi-ge-he-zui-hou-yi-ge-wei-zhi.md)
-  * [36 有效的数独](leetcode-jing-xuan-top-mian-shi-ti/36-you-xiao-de-shu-du.md)
-  * [38 外观数列](leetcode-jing-xuan-top-mian-shi-ti/38-wai-guan-shu-lie.md)
-  * [41 缺失的第一个正数](leetcode-jing-xuan-top-mian-shi-ti/41-que-shi-de-di-yi-ge-zheng-shu.md)
-  * [42 接雨水](leetcode-jing-xuan-top-mian-shi-ti/42-jie-yu-shui.md)
-  * [44 通配符匹配](leetcode-jing-xuan-top-mian-shi-ti/44-tong-pei-fu-pi-pei.md)
-  * [46 全排列](leetcode-jing-xuan-top-mian-shi-ti/46-quan-pai-lie.md)
-  * [48 旋转图像](leetcode-jing-xuan-top-mian-shi-ti/48-xuan-zhuan-tu-xiang.md)
-  * [49 字母异位词分组](leetcode-jing-xuan-top-mian-shi-ti/49-zi-mu-yi-wei-ci-fen-zu.md)
-  * [50 Pow\(x, n\)](leetcode-jing-xuan-top-mian-shi-ti/50-pow-x-n.md)
-  * [53 最大子序和](leetcode-jing-xuan-top-mian-shi-ti/53-zui-da-zi-xu-he.md)
-  * [54 螺旋矩阵](leetcode-jing-xuan-top-mian-shi-ti/54-luo-xuan-ju-zhen.md)
-  * [55 跳跃游戏](leetcode-jing-xuan-top-mian-shi-ti/55-tiao-yue-you-xi.md)
-  * [56 合并区间](leetcode-jing-xuan-top-mian-shi-ti/56-he-bing-qu-jian.md)
-  * [62 不同路径](leetcode-jing-xuan-top-mian-shi-ti/62-bu-tong-lu-jing.md)
-  * [66 加一](leetcode-jing-xuan-top-mian-shi-ti/66-jia-yi.md)
-  * [69 x 的平方根](leetcode-jing-xuan-top-mian-shi-ti/69x-de-ping-fang-gen.md)
-  * [70 爬楼梯](leetcode-jing-xuan-top-mian-shi-ti/70-pa-lou-ti.md)
-  * [73 矩阵置零](leetcode-jing-xuan-top-mian-shi-ti/73-ju-zhen-zhi-ling.md)
-  * [75 颜色分类](leetcode-jing-xuan-top-mian-shi-ti/75-yan-se-fen-lei.md)
-  * [76 最小覆盖子串](leetcode-jing-xuan-top-mian-shi-ti/76-zui-xiao-fu-gai-zi-chuan.md)
-  * [78 子集](leetcode-jing-xuan-top-mian-shi-ti/78-zi-ji.md)
-  * [79 单词搜索](leetcode-jing-xuan-top-mian-shi-ti/79-dan-ci-sou-suo.md)
-  * [84 柱状图中最大的矩形](leetcode-jing-xuan-top-mian-shi-ti/84-zhu-zhuang-tu-zhong-zui-da-de-ju-xing.md)
-  * [88 合并两个有序数组](leetcode-jing-xuan-top-mian-shi-ti/88-he-bing-liang-ge-you-xu-shu-zu.md)
-  * [91 解码方法](leetcode-jing-xuan-top-mian-shi-ti/91-jie-ma-fang-fa.md)
-  * [94 二叉树的中序遍历](leetcode-jing-xuan-top-mian-shi-ti/94-er-cha-shu-de-zhong-xu-bian-li.md)
-* [结束](end.md)
+  * [LCP 18 早餐组合🔹 ](chapter_a/lcp-18-zao-can-zu-he-d83d-dd39.md)
+  * LCP 19 秋叶收藏集🔸 
+  * LCP 20 快速公交💥  
+  * LCP 21 追逐游戏💥
+  * [LCP 22 黑白方格画🔹  ](chapter_a/lcp-22-hei-bai-fang-ge-hua-d83d-dd39.md)
+  * LCP 23 魔术排列🔸  
+  * LCP 24 数字游戏💥  
+  * LCP 25 古董键盘💥 
+  * LCP 26 导航装置💥  
+  * LCP 27 黑盒光线反射💥  
+* [LeetCode 精选 TOP 面试题](chapter_b/README.md)
+  * 1 两数之和  
+  * 2 两数相加  
+  * 3 无重复字符的最长子串
+  * 4 寻找两个正序数组的中位数
+  * 5 最长回文子串
+  * 7 整数反转
+  * 8 字符串转换整数 (atoi)
+  * 10 正则表达式匹配
+  * 11 盛最多水的容器
+  * 13 罗马数字转整数
+  * 14 最长公共前缀
+  * 15 三数之和
+  * 17 电话号码的字母组合
+  * 19 删除链表的倒数第N个节点
+  * 20 有效的括号  
+  * 21 合并两个有序链表
+  * 22 括号生成
+  * 23 合并K个升序链表
+  * 26 删除排序数组中的重复项
+  * 28 实现 strStr()
+  * 29 两数相除  
+  * 33 搜索旋转排序数组 
+  * 34 在排序数组中查找元素的第一个和最后一个位置
+  * 36 有效的数独
+  * 38 外观数列
+  * 41 缺失的第一个正数
+  * 42 接雨水
+  * 44 通配符匹配
+  * 46 全排列
+  * 48 旋转图像
+  * 49 字母异位词分组
+  * 50 Pow(x, n)
+  * 53 最大子序和
+  * 54 螺旋矩阵 
+  * 55 跳跃游戏 
+  * 56 合并区间
+  * 62 不同路径 
+  * 66 加一 
+  * 69 x 的平方根
+  * 70 爬楼梯
+  * 73 矩阵置零 
+  * 75 颜色分类
+  * 76 最小覆盖子串  
+  * 78 子集
+  * 79 单词搜索
+  * 84 柱状图中最大的矩形 
+  * 88 合并两个有序数组
+  * 91 解码方法 
+  * 94 二叉树的中序遍历  
+* [结束](end/README.md)
 

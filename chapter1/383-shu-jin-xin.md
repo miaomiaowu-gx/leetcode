@@ -1,6 +1,6 @@
-# 383 赎金信
+## 383. 赎金信
 
-```text
+```
 给定一个赎金信 (ransom) 字符串和一个杂志(magazine)字符串，判断第一个字符串 ransom 能不能由第二个字符串 magazines 里面的字符构成。如果可以构成，返回 true ；否则返回 false。 
 (题目说明：为了不暴露赎金信字迹，要从杂志上搜索各个需要的字母，组成单词来表达意思。杂志字符串中的每个字符只能在赎金信字符串中使用一次。) 
 
@@ -10,10 +10,11 @@ canConstruct("a", "b") -> false
 canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
 
-Related Topics 字符串
+Related Topics 字符串 
 ```
 
-## 方法一、使用 indexOf 函数
+
+### 方法一、使用 indexOf 函数
 
 `java.lang.String` 中方法 `int indexOf(int ch, int fromIndex)` 返回在此字符串中第一次出现指定字符处的索引，从指定的索引开始搜索。
 
@@ -35,11 +36,13 @@ class Solution {
 }
 ```
 
-最坏时间复杂度是 m\*n，m 是 ransom 去重后的长度，n 是 magazine 长度。比普通的哈希法的线性复杂度要高。
+最坏时间复杂度是 m*n，m 是 ransom 去重后的长度，n 是 magazine 长度。比普通的哈希法的线性复杂度要高。
 
-## 方法二、数组代替哈希表计数
+
+### 方法二、数组代替哈希表计数
 
 【推荐】
+
 
 ```java
 class Solution {
@@ -58,7 +61,7 @@ class Solution {
 }
 ```
 
-## 方法三、哈希表计数
+### 方法三、哈希表计数
 
 ```java
 class Solution {
@@ -77,4 +80,3 @@ class Solution {
     }
 }
 ```
-
