@@ -1,6 +1,6 @@
-## LCP 07 传递信息
+# LCP 07 传递信息🔹
 
-```
+```text
 小朋友 A 在和 ta 的小伙伴们玩传信息游戏，游戏规则如下： 
 * 有 n 名玩家，所有玩家编号分别为 0 ～ n-1，其中小朋友 A 的编号为 0 每个玩家都有固定的若干个可传信息的其他玩家（也可能没有）。传信息的关系是单向的（比如 A 可以向 B 传信息，但 B 不能向 A 传信息）。 
 * 每轮信息必须需要传递给另一个人，且信息可重复经过同一个人。 
@@ -19,10 +19,10 @@
 2 <= n <= 10 
 1 <= k <= 5 
 1 <= relation.length <= 90, 且 relation[i].length == 2 
-0 <= relation[i][0],relation[i][1] < n 且 relation[i][0] != relation[i][1] 
+0 <= relation[i][0],relation[i][1] < n 且 relation[i][0] != relation[i][1]
 ```
 
-### 方法一、深度优先搜索
+## 方法一、深度优先搜索
 
 使用 `Map<Integer, List<Integer>>` 存储 relation 中的对应关系。
 
@@ -40,7 +40,7 @@ class Solution {
         backTracking(map,k,n,0,0);
         return count;
     }
-    
+
     public void backTracking(Map<Integer, List<Integer>> map, int k, int n, int cur, int curPerson) {
         if(cur==k){
             if(curPerson==n-1) count++;
@@ -55,19 +55,17 @@ class Solution {
 ```
 
 **复杂度分析**
-* 时间复杂度：O(n^k)。
-* 空间复杂度：O(n)。
 
-### 方法二、动态规划
+* 时间复杂度：O\(n^k\)。
+* 空间复杂度：O\(n\)。
 
-思路：
-1 `dp[i][j]` 表示数组的第 `i` 轮传递给编号 `j` 的人的方案数。
+## 方法二、动态规划
 
-2 若能传递给编号 y 玩家的所有玩家编号 x1,x2,x3... , 则第 i+1 轮传递信息给编号 y 玩家的递推方程为：
-`dp[i+1][y] = sum(dp[i][x1],dp[i][x2],dp[i][x3]...)`
+思路： 1 `dp[i][j]` 表示数组的第 `i` 轮传递给编号 `j` 的人的方案数。
+
+2 若能传递给编号 y 玩家的所有玩家编号 x1,x2,x3... , 则第 i+1 轮传递信息给编号 y 玩家的递推方程为： `dp[i+1][y] = sum(dp[i][x1],dp[i][x2],dp[i][x3]...)`
 
 3 递推形式即 `dp[i+1][y] += dp[i][x]`，x 与 y 为一组 relation 对应组。
-
 
 ```java
 class Solution {
@@ -87,8 +85,7 @@ class Solution {
 ```
 
 **复杂度分析**
-* 时间复杂度：O(k*n^2)。
-* 空间复杂度：O(k∗n)。
 
-
+* 时间复杂度：O\(k\*n^2\)。
+* 空间复杂度：O\(k∗n\)。
 
